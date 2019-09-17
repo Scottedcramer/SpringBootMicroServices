@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * @author Administrator
- *Handle the /start endpoints
+ *Handle the /start end points
  *@return
  */
 @Controller
